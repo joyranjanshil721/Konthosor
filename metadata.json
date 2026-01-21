@@ -1,0 +1,7 @@
+{
+  "name": "Konthosor - Bengali TTS",
+  "description": "A high-fidelity Bengali Text-to-Speech generator powered by Gemini 2.5 Flash, featuring natural voice synthesis and real-time audio playback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
